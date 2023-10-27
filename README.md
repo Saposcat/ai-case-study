@@ -49,17 +49,17 @@
 
 * Why are these technologies appropriate for your solution? I think the reasons have been explained in the previous paragraph already. AI and ML algorithms should scrape data and put it into a usable format for other machine learning algorithms to utilize without humans having to touch the true data very much. If some workaround to the problem of requiring humans to look at genuine medical data were to be found, I suppose it wouldn't matter so much if the method were supervised or unsuplervised, assuming that no misdiagnoses were made from which the labeling of the data could create inaccurate results. I imagine this to be a lesser problem, however.
 
-##Bibliography
+## Bibliography
 
-Sirrani, J. (2023, October 26). Personal interview [Data Scientist at Nationwide Children’s Hospital].
-Nationwide Children’s Hospital. (n.d.). History and Milestones. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/about-us/our-story/history-and-milestones
-Nationwide Children’s Hospital. (n.d.). About Us. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/about-us
-Rodgers, J. (2016, September 15). Nationwide Children’s Hospital. Retrieved October 27, 2023, from https://library.osu.edu/site/mhcb/2016/09/15/nationwide-childrens-hospital/
-Nationwide Children’s Hospital. (2023, October 27). In Wikipedia. Retrieved October 27, 2023, from https://en.wikipedia.org/wiki/Nationwide_Children%27s_Hospital
-Nationwide Children’s Hospital. (n.d.). Our Story. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/about-us/our-story
-Nationwide Children’s Hospital. (n.d.). Fast Facts. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/about-us/our-story/fast-facts
-Nationwide Children’s Hospital. (2021, June 16). Strategic Plan: Transforming Health Outcomes for Children Locally and Around the World. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/newsroom/news-releases/2021/06/strategic-plan
-ABC6 News Staff. (2021, June 16). Nationwide Children’s Hospital announces expansion. ABC6OnYourSide.com. Retrieved October 27, 2023, from https://abc6onyourside.com/news/local/nationwide-childrens-hospital-announces-expansion-6-16-2021
-Nationwide Children’s Hospital Research Institute IT Research and Innovation Grant Funding | Crunchbase Company Profile & Funding. (n.d.). Retrieved October 27, 2023, from https://www.crunchbase.com/organization/nationwide-childrens-hospital
-Nationwide Insurance Foundation | Giving | NCH | Nationwide Children’s Hospital Foundation | Columbus Ohio (n.d.). Retrieved October 27, 2023, from https://www.nationwide.com/personal/about-us/giving/nch/
-Weiker, J., & Schladen, M. (2021, June 16). Nationwide Children’s to spend billions on new hospital buildings, programs. The Columbus Dispatch. Retrieved October 27, 2023, from https://www.dispatch.com/story/news/2021/06/16/nationwide-childrens-spend-billions-new-hospital-buildings-programs/7687094002/
+* Sirrani, J. (2023, October 26). Personal interview [Data Scientist at Nationwide Children’s Hospital].
+* Nationwide Children’s Hospital. (n.d.). History and Milestones. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/about-us/our-story/history-and-milestones
+* Nationwide Children’s Hospital. (n.d.). About Us. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/about-us
+* Rodgers, J. (2016, September 15). Nationwide Children’s Hospital. Retrieved October 27, 2023, from https://library.osu.edu/site/mhcb/2016/09/15/nationwide-childrens-hospital/
+* Nationwide Children’s Hospital. (2023, October 27). In Wikipedia. Retrieved October 27, 2023, from https://en.wikipedia.org/wiki/Nationwide_Children%27s_Hospital
+* Nationwide Children’s Hospital. (n.d.). Our Story. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/about-us/our-story
+* Nationwide Children’s Hospital. (n.d.). Fast Facts. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/about-us/our-story/fast-facts
+* Nationwide Children’s Hospital. (2021, June 16). Strategic Plan: Transforming Health Outcomes for Children Locally and Around the World. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/newsroom/news-releases/2021/06/strategic-plan
+* ABC6 News Staff. (2021, June 16). Nationwide Children’s Hospital announces expansion. ABC6OnYourSide.com. Retrieved October 27, 2023, from https://abc6onyourside.com/news/local/nationwide-childrens-hospital-announces-expansion-6-16-2021
+* Nationwide Children’s Hospital Research Institute IT Research and Innovation Grant Funding | Crunchbase Company Profile & Funding. (n.d.). Retrieved October 27, 2023, from https://www.crunchbase.com/organization/nationwide-childrens-hospital
+* Nationwide Insurance Foundation | Giving | NCH | Nationwide Children’s Hospital Foundation | Columbus Ohio (n.d.). Retrieved October 27, 2023, from https://www.nationwide.com/personal/about-us/giving/nch/
+* Weiker, J., & Schladen, M. (2021, June 16). Nationwide Children’s to spend billions on new hospital buildings, programs. The Columbus Dispatch. Retrieved October 27, 2023, from https://www.dispatch.com/story/news/2021/06/16/nationwide-childrens-spend-billions-new-hospital-buildings-programs/7687094002/
