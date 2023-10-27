@@ -1,16 +1,16 @@
 # Nationwide Children's Hospital  : AI Research and Recommendations
 
 ## Table of contents
-- [Overview and Origin] (#overview and origin)
-- [Business Activities] (#business activities)
-- [Landscape] (#landscape)
-- [Results] (#results)
-- [Recommendations] (#recommendations)
-- [Bibliography] (#bibliography)
+- [Overview and Origin](#overview-and-origin)
+- [Business Activities](#business-activities)
+- [Landscape](#landscape)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Bibliography](#bibliography)
 
 
 
-## Overview and Origin <a name="overview and origin"></a>
+## Overview and Origin <a name="overview-and-origin"></a>
 
 
 * Name of company: Nationwide Children's Hospital; affiliated with Ohio State University College of Medicine (Wikipedia.org)
@@ -32,7 +32,7 @@
   * it is a nonprofit organization that is funded by a variety of sources, most of them philanthropic, government related, and grants. (Nationwidechildrens.org)(crunchbase.com)(nationwide.com),(dispatch.com),(abc6onyourside.com)
 
 
-## Business Activities <a name="business activities"></a>
+## Business Activities <a name="business-activities"></a>
 
 
 * What specific problem is the company or project trying to solve?
