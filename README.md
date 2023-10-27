@@ -1,4 +1,13 @@
-# Nationwide Children's Hospital  * AI Research and Recommendations
+# Nationwide Children's Hospital  : AI Research and Recommendations
+
+## Table of contents
+- Overview and Origin
+- Business Activities
+- Landscape
+- Results
+- Recommendations
+- Bibliography
+
 
 
 ## Overview and Origin
