@@ -13,7 +13,8 @@
 ## Overview and Origin <a name="overview-and-origin"></a>
 
 
-* Name of company: Nationwide Children's Hospital; affiliated with Ohio State University College of Medicine (Wikipedia.org)
+* Name of company
+  * Nationwide Children's Hospital; affiliated with Ohio State University College of Medicine (Wikipedia.org)
 
 
 * When was the company incorporated?
