@@ -51,7 +51,7 @@
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing. you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-  * As far as the relevant AI space goes, the hospital is focusing on doing research in the NLP space in order to expedite the administrative procedures of hte hospital. A lot of the note taking is templated and does not really require AI, but technology which summarizes phone calls and puts them into a brief text format is being utilized and continuously developed. There are also a lot of methods which are using statistical analysis that does not go into the machine learning field like standard linear models which are easier to get buy-in for than black box models when dealing with certain tasks such as diagnosing patient illnesses. However, there are also initiatives to use image processing in order to determine and rule out ailments of patients. (Sirrani, J.)
+  * As far as the relevant AI space goes, the hospital is focusing on doing research in the NLP space in order to expedite the administrative procedures of hte hospital. A lot of the note taking is templated and does not really require AI, but technology which summarizes phone calls and puts them into a brief text format is being utilized and continuously developed. There are also a lot of methods which are using statistical analysis that does not go into the machine learning field like standard linear models which are easier to get buy-in for than black box models when dealing with certain tasks such as diagnosing patient illnesses. However, there are also initiatives to use image processing in order to determine and rule out ailments of patients. (Sirrianni, J.)
 
 
 ## Landscape <a name="landscape"></a>
@@ -62,11 +62,11 @@
 
 
 * What have been the major trends and innovations of this field over the last 5 to10 years?
-  * Since BERT came out in 2018, NLP really has been the trend at hospital AI projects and a lot of research has gone into it in hospitals in general. Another trend is the rise of cloud computing as a result of all the machine learning and AI technology which is being fielded in this space as most hospitals do not have the resources to have their own array of high performance compute servers running locally. (Sirrani, J.)
+  * Since BERT came out in 2018, NLP really has been the trend at hospital AI projects and a lot of research has gone into it in hospitals in general. Another trend is the rise of cloud computing as a result of all the machine learning and AI technology which is being fielded in this space as most hospitals do not have the resources to have their own array of high performance compute servers running locally. (Sirrianni, J.)
 
 
 * What are the other major companies in this field?
-  * If we see the competitors as being other children's Hospitals which are regionally close enough to be considered valid competitors, the biggest competitors would be Cincinnati Childrens, the Mayo Clinic (which has a collaboration with google for AI and machine learning stuff), and Boston Childrens. But they are not merely competitors, but also collaborators on a lot of AI projects. (Sirrani, J.)
+  * If we see the competitors as being other children's Hospitals which are regionally close enough to be considered valid competitors, the biggest competitors would be Cincinnati Childrens, the Mayo Clinic (which has a collaboration with google for AI and machine learning stuff), and Boston Childrens. But they are not merely competitors, but also collaborators on a lot of AI projects. (Sirrianni, J.)
 
 
 ## Results <a name="results"></a>
@@ -77,18 +77,22 @@
 
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-  * A lot of hospitals have to pay penalties if patients return too soon after being discharged, which is a measure of success in treating people, but one can also look toward customer satisfaction and the reduction of administrative workload from the perspective of the AI side of things to determine how successful Nationwide has been. In that respect, Nationwide is still a bit behind the times, but surely catching up and investing a lot of research time into the field. The other way of telling the success of the hospital would be to consider the total amount of grants which it has brought in. That would be especially relevant to anyone who is in research, such as in the field of AI. (Sirrani, J.)
+  * A lot of hospitals have to pay penalties if patients return too soon after being discharged, which is a measure of success in treating people, but one can also look toward customer satisfaction and the reduction of administrative workload from the perspective of the AI side of things to determine how successful Nationwide has been. In that respect, Nationwide is still a bit behind the times, but surely catching up and investing a lot of research time into the field. The other way of telling the success of the hospital would be to consider the total amount of grants which it has brought in. That would be especially relevant to anyone who is in research, such as in the field of AI. (Sirrianni, J.)
 
 
 * How is your company performing relative to competitors in the same field?
-  * Nationwide Childrens is usually rated somewhere around 9th in the US which puts it into pretty hot competition with Cincinnati Childrens which is usually rated 3rd in the US; Nationwide is, therefore, doing quite well for itself, though there is still quite the chance for improvement. (Sirrani, J.)
+  * Nationwide Childrens is usually rated somewhere around 9th in the US which puts it into pretty hot competition with Cincinnati Childrens which is usually rated 3rd in the US; Nationwide is, therefore, doing quite well for itself, though there is still quite the chance for improvement. (Sirrianni, J.)
 
 
 ## Recommendations <a name="recommendations"></a>
 
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-  * One of the things that the hospital does not yet do well as far as administrative tasks go is that a "chat gpt for physician notes" is not yet fully developed and the use of tools like suki.ai has also not been adopted. Part of the reason for this is that, unlike the tech motto of "move fast and break things", hospitals cannot do this as too many lives are genuinely at stake; moving fast and breaking things is really the opposite of what hospitals are trying to do. Another problem the company faces is within the use of AI imaging technology. Hospital data, on account of its geographic limitations is not necessarily diverse enough to make a model which will predict equally well everywhere, and it could miss certain demographics entirely which would be the cause of much controversy. Collaborations with other Hospitals about data are not unheard of, but merging disparate datasets whith different formats without looking at the information and breaking healthcare privacy guidelines remains a serious challenge. (Sirrani, J.) My recommendation, however, would be to work on finding a way to make a unified dataset, perhaps utilizing AI methods in order to create a method for extracting relevant information from disparate datasets without human eyes being put on it.
+  * One of the things that the hospital does not yet do well as far as administrative tasks go is that a "chat gpt for physician notes" is not yet fully developed and the use of tools like suki.ai has also not been adopted. Part of the reason for this is that, unlike the tech motto of "move fast and break things", hospitals cannot do this as too many lives are genuinely at stake.
+  
+  > "In the Healthcare sector, we do not move fast and break things; that is the exact opposite thing of what we're trying to do here" — _Joe Sirrianni_
+  
+   Another problem the company faces is within the use of AI imaging technology. Hospital data, on account of its geographic limitations is not necessarily diverse enough to make a model which will predict equally well everywhere, and it could miss certain demographics entirely which would be the cause of much controversy. Collaborations with other Hospitals about data are not unheard of, but merging disparate datasets whith different formats without looking at the information and breaking healthcare privacy guidelines remains a serious challenge. (Sirrianni, J.) My recommendation, however, would be to work on finding a way to make a unified dataset, perhaps utilizing AI methods in order to create a method for extracting relevant information from disparate datasets without human eyes being put on it.
 
 
 * Why do you think that offering this product or service would benefit the company?
@@ -106,7 +110,7 @@
 ## Bibliography <a name="bibliography"></a>
 
 
-* Sirrani, J. (2023, October 26). Personal interview [Data Scientist at Nationwide Children’s Hospital].
+* Sirrianni, J. (2023, October 26). Personal interview [Data Scientist at Nationwide Children’s Hospital].
 * Nationwide Children’s Hospital. (n.d.). History and Milestones. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/about-us/our-story/history-and-milestones
 * Nationwide Children’s Hospital. (n.d.). About Us. Retrieved October 27, 2023, from https://www.nationwidechildrens.org/about-us
 * Rodgers, J. (2016, September 15). Nationwide Children’s Hospital. Retrieved October 27, 2023, from https://library.osu.edu/site/mhcb/2016/09/15/nationwide-childrens-hospital/
@@ -118,4 +122,5 @@
 * Nationwide Children’s Hospital Research Institute IT Research and Innovation Grant Funding | Crunchbase Company Profile & Funding. (n.d.). Retrieved October 27, 2023, from https://www.crunchbase.com/organization/nationwide-childrens-hospital
 * Nationwide Insurance Foundation | Giving | NCH | Nationwide Children’s Hospital Foundation | Columbus Ohio (n.d.). Retrieved October 27, 2023, from https://www.nationwide.com/personal/about-us/giving/nch/
 * Weiker, J., & Schladen, M. (2021, June 16). Nationwide Children’s to spend billions on new hospital buildings, programs. The Columbus Dispatch. Retrieved October 27, 2023, from https://www.dispatch.com/story/news/2021/06/16/nationwide-childrens-spend-billions-new-hospital-buildings-programs/7687094002/
-
+ * Fig. 1. “Robots Caring for Patients in Nationwide Children’s Hospital: Friendly Cartoonish Art.” Generated by Bing Image Creator, version 1.0, 27 Oct. 2023.
+ * Fig. 2. “Nationwide Children’s Hospital futuristic vision watercolor.” Generated by Bing Image Creator, version 1.0, 27 Oct. 2023.
