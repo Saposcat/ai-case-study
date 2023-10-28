@@ -90,7 +90,7 @@
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
   * One of the things that the hospital does not yet do well as far as administrative tasks go is that a "chat gpt for physician notes" is not yet fully developed and the use of tools like suki.ai has also not been adopted. Part of the reason for this is that, unlike the tech motto of "move fast and break things", hospitals cannot do this as too many lives are genuinely at stake.
 
-  
+  >
   > "In the Healthcare sector, we do not move fast and break things; that is the exact opposite thing of what we're trying to do here" — _Joe Sirrianni_
   
   * Another problem the company faces is within the use of AI imaging technology. Hospital data, on account of its geographic limitations is not necessarily diverse enough to make a model which will predict equally well everywhere, and it could miss certain demographics entirely which would be the cause of much controversy. Collaborations with other Hospitals about data are not unheard of, but merging disparate datasets whith different formats without looking at the information and breaking healthcare privacy guidelines remains a serious challenge. (Sirrianni, J.) My recommendation, however, would be to work on finding a way to make a unified dataset, perhaps utilizing AI methods in order to create a method for extracting relevant information from disparate datasets without human eyes being put on it.
