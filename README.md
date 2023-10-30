@@ -3,8 +3,7 @@
 ## Table of contents
 - [Overview and Origin](#overview-and-origin)
 - [Business Activities](#business-activities)
-- [Landscape](#landscape)
-- [Results](#results)
+- [Landscape and Results](#landscape)
 - [Recommendations](#recommendations)
 - [Bibliography](#bibliography)
 
@@ -15,100 +14,45 @@
 ![image1](image1.jpg)
 
 
-* Name of company
-  * Nationwide Children's Hospital; affiliated with Ohio State University College of Medicine (Wikipedia.org)
-
-
-* When was the company incorporated?
-  * The original children's hospital of Columbus was opened in 1892; it was renamed to Nationwide Children's Hospital upon getting a grant for $50 million from the Nationwide foundation of Nationwide insurance. (Wikipedia.org)
-
-
-* Who are the founders of the company?
-  * The founders of the company were a group of 12 women of whom the website makes no further mention (nationwidechildrens.org). However, another source says, at least, that the women in question were part of a sewing circle (library.osu.edu).
-
-
-* How did the idea for the company (or project) come about?
-  * The women wanted to create a hospital that would give the best care to children regardless of their families ability to pay (nationwidechildrens.org)
-
-
-* How is the company funded? How much funding have they received?
-  * it is a nonprofit organization that is funded by a variety of sources, most of them philanthropic, government related, and grants. (Nationwidechildrens.org)(crunchbase.com)(nationwide.com),(dispatch.com),(abc6onyourside.com)
+Nationwide Children’s Hospital, which is affiliated with the Ohio State University College of Medicine, was originally opened in 1892 by a group of 12 women from a sewing circle who wanted to create a hospital that would give the best healthcare to children despite their family's ability (or inability) to pay for the care. It has stayed true to this principle to this day, giving affordable healthcare to families by means of philanthropic and government funding, as well as the acquisition of research grants. The Hospital obtained its modern name when it was given a $50 million grant from the Nationwide foundation, part of Nationwide Insurance company. Today, Nationwide Childrens remains one of the largest hospitals serving children in the nation. (Nationwidechildrens.org, library.osu.edu, Wikipedia.org) 
 
 
 ## Business Activities <a name="business-activities"></a>
 
 
-* What specific problem is the company or project trying to solve?
-  * Being a children's hospital that was founded on the idea that children should be given care even if families cannot afford to pay for it, I would say that Children's health is the main project of the Business. However, the business has grown a lot and has also contributed a lot of research to the field of healthcare by now. (Nationwidechildrens.org)
+Being a children’s hospital, it goes without saying that NC’s priority will always be to care for children in need of medical attention; however, the business has grown a lot since its inception and can afford very much to engage in meaningful research to benefit the field of medicine as a whole, and to improve the customer experience in general. The customers of the hospital, after all, are not only the children, but also the caretakers of the children who will want to have as seamless an experience as possible in dealing with the hospital administration and financial systems. Moreover, Doctors, to give the best treatment available, will rely upon technologies created by AI researchers to help diagnose patients and to make their lives easier.  (Nationwidechildrens.org) 
+
+As the field of medicine is not a competitive industry in the same sense as are profit-driven enterprises, it is hard to point to any singular piece of technology that NC uses which gives it an edge over other hospitals; if there were something easy to implement that could save lives, a Hospital would not jealously guard knowledge of that technology but make sure that other hospitals have a chance to learn from and implement it as well. That said, NC is a very well-funded hospital and within the top 10 Children’s Hospitals within the United States which allows NC to probably adopt more solutions, in the aggregate, than its competitors do on account of the availability of resources. (Nationwidechildrens.org, Sirrianni, J.) 
+
+The AI space at NC is primarily focused in doing research in the NLP space so that the process of writing notes, and that of other administrative procedures, may be expedited to free up time among the hospital staff. While the note taking that the doctors at NC are doing might not necessarily require AI, as much of it is quite heavily templated, AI technology which listens to phone calls and summarizes, categorizes, and converts to text the information given in the message is being utilized and continuously developed. Another application for AI which is currently being developed is that of image recognition technology, which is to be used as a means of helping doctors diagnose their patients. Of course, there would be a lot of other applications for machine learning as a means of diagnosing patient illnesses, however, it is difficult for the RND team to get buy in from any such technology as the usefulness of standard statistical methods such as linear regression remain a lot more useful to many physicians because they are not as “black-box” as Machine learning models tend to be; this makes a future of Robots helping in the diagnosis still a dream far away from any immediate grasp. (Sirrianni, J.) 
 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers? 
-  * The intended customer would, naturally, be a sick child, but in a manner of speaking, their caretakers are customers too for the experience they have with the hospital will also matter to the reputation of the hospital, as well as its ability to bring money in by means of grants and donations. (Nationwidechildrens.org)
-
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) 
-  * I'm not sure if Nationwide childrens offers any singular solution that none of its competitors offers as I could find no mention of such a thing; actually, one would expect (and hope) that such is the case in the event of technology which makes healthcare easier. What I can say is that Nationwide, in the aggregate, probably has more solutions available than most other competitors in their field as they have poured a lot of money into RND in the AI field and have the resources available to do it.
-
-
-
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing. you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-  * As far as the relevant AI space goes, the hospital is focusing on doing research in the NLP space in order to expedite the administrative procedures of hte hospital. A lot of the note taking is templated and does not really require AI, but technology which summarizes phone calls and puts them into a brief text format is being utilized and continuously developed. There are also a lot of methods which are using statistical analysis that does not go into the machine learning field like standard linear models which are easier to get buy-in for than black box models when dealing with certain tasks such as diagnosing patient illnesses. However, there are also initiatives to use image processing in order to determine and rule out ailments of patients. (Sirrianni, J.)
-
-
-## Landscape <a name="landscape"></a>
+## Landscape and Results <a name="landscape"></a>
 
 ![image2](image2.jpg)
 
-* What field is the company in?
-  * Healthcare
+AI in healthcare, like most industries, has developed a lot in the past 5 to 10 years. The most recent trend is that of natural language processing since BERT came out in 2018, and most of the recent efforts have been focused on that across industries. Because of the computational intensity of models which are capable of such efforts, there has also been a general rise in cloud computing among hospitals as most hospitals do not have the resources to spare on their own proprietary array of high-performance compute servers running locally. (Sirrianni, J.) 
 
+Healthcare, being what it is, is a field which can take advantage of local monopoly effects; people do not usually travel very far when they are in need of healthcare to save a few dollars, and so one cannot compare competition between hospitals to that of businesses which are competing in the technology sector, for example. Competition between hospitals is largely collaborative, similar to how universities will compete with one another. That allows Hospitals to share a lot of knowledge with each other while still pursuing excellence in research. (Sirrianni, J.) 
 
-* What have been the major trends and innovations of this field over the last 5 to10 years?
-  * Since BERT came out in 2018, NLP really has been the trend at hospital AI projects and a lot of research has gone into it in hospitals in general. Another trend is the rise of cloud computing as a result of all the machine learning and AI technology which is being fielded in this space as most hospitals do not have the resources to have their own array of high performance compute servers running locally. (Sirrianni, J.)
-
-
-* What are the other major companies in this field?
-  * If we see the competitors as being other children's Hospitals which are regionally close enough to be considered valid competitors, the biggest competitors would be Cincinnati Childrens, the Mayo Clinic (which has a collaboration with google for AI and machine learning stuff), and Boston Childrens. But they are not merely competitors, but also collaborators on a lot of AI projects. (Sirrianni, J.)
-
-
-## Results <a name="results"></a>
-
-
-* What has been the business impact of this company so far?
-  * Nationwide has, for about 130 years now been providing healthcare to children at affordable prices; that is quite a business impact on its own, but nationwide has also made some breakthroughs within research during its history running as a Children's Hospital as well.
-
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-  * A lot of hospitals have to pay penalties if patients return too soon after being discharged, which is a measure of success in treating people, but one can also look toward customer satisfaction and the reduction of administrative workload from the perspective of the AI side of things to determine how successful Nationwide has been. In that respect, Nationwide is still a bit behind the times, but surely catching up and investing a lot of research time into the field. The other way of telling the success of the hospital would be to consider the total amount of grants which it has brought in. That would be especially relevant to anyone who is in research, such as in the field of AI. (Sirrianni, J.)
-
-
-* How is your company performing relative to competitors in the same field?
-  * Nationwide Childrens is usually rated somewhere around 9th in the US which puts it into pretty hot competition with Cincinnati Childrens which is usually rated 3rd in the US; Nationwide is, therefore, doing quite well for itself, though there is still quite the chance for improvement. (Sirrianni, J.)
+As such, we can identify the closest competitors and collaborators of NC as being those other hospitals for children which have obtained laurels on account of their contributions which are in relatively proximity. Hospitals can determine their success based upon how few returning discharges they have, overall customer satisfaction, and the amount of research grant money which they bring in; NC is rated as the 9th best children’s hospital in the United States which puts it into pretty hot competition with the nearby Cincinnati Children’s Hospital which is ranked 3rd. Another fierce competitor in local proximity is the Mayo Clinic, also in Columbus but not a children’s hospital, which has an agreement with google to research new technologies in the AI field. Nationwide is therefore doing well but can still catch up to other hospitals near it through collaborative projects. (Sirrianni, J.) 
 
 
 ## Recommendations <a name="recommendations"></a>
 
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-  * One of the things that the hospital does not yet do well as far as administrative tasks go is that a "chat gpt for physician notes" is not yet fully developed and the use of tools like suki.ai has also not been adopted. Part of the reason for this is that, unlike the tech motto of "move fast and break things", hospitals cannot do this as too many lives are genuinely at stake.
-  <br>
+One of the areas in which this hospital still lags is the development of a “chat gpt for physician notes”. A lot of hospitals would like to have their own proprietary software for such things, and with no large adoption of anything like sucki.ai anyway, this hospital is still lagging at saving the value time of their practicing physicians. The main reason why these things take so long in the healthcare sector is because the motto of “move fast and break things” does not work well for the healthcare sector. I would advise development in this sector as the time it takes physicians to fill out paperwork often results in work being taken home and consequently burnout. (Sirriani, J.) 
 
   > "In the Healthcare sector, we do not move fast and break things; that is the exact opposite thing of what we're trying to do here." — _Joe Sirrianni_
  
-  * Another problem the company faces is within the use of AI imaging technology. Hospital data, on account of its geographic limitations is not necessarily diverse enough to make a model which will predict equally well everywhere, and it could miss certain demographics entirely which would be the cause of much controversy. Collaborations with other Hospitals about data are not unheard of, but merging disparate datasets whith different formats without looking at the information and breaking healthcare privacy guidelines remains a serious challenge. (Sirrianni, J.) My recommendation, however, would be to work on finding a way to make a unified dataset, perhaps utilizing AI methods in order to create a method for extracting relevant information from disparate datasets without human eyes being put on it.
+Another problem which the company faces is that of AI imaging technology. Hospital data, on account of its geographic limitations, is not necessarily diverse enough to successfully provide a model which reliably works everywhere and across all different demographics, which could become a very controversial issue. This problem could theoretically be solved through enough collaboration with other hospitals sharing data to solve a problem. While such collaborations, however, are not unheard of, merging disparate datasets with different formats without looking at the information (thus breaking healthcare privacy requirements) remains a serious challenge. (Sirrianni, J.) 
 
 
-* Why do you think that offering this product or service would benefit the company?
-  * It would benefit them for the reasons which I have just explained: that it would allow hospitals to have more data available for research; it would benefit not only Nationwide Childrens, but hospitals everywhere.
+My idea for potentially solving this problem would be to work on finding a way to make a unified dataset between hospital data with the help of AI. An AI could perhaps be trained on the datasets of different hospitals in order to come up with a way to expediently scrape data without the need for human supervision in the process, thus protecting privacy of the patients who would have their data examined in this way. With such a solution, hospitals would be free to develop their own AI and machine learning solutions on the basis of data from the whole US and, one would hope, eventually the world.  
 
+The biggest challenge in developing such a solution, however, is that it would be requisite to have a human view upon the data throughout the course of training. Even an “unsupervised” model requires supervision, at the end of the day, to ensure that model output is not misleading, and this is doubly important, of course, within the healthcare industry. The way to do it might be to ask a few people if they would be willing to volunteer their healthcare information for this process, and perhaps even to pay them for it, though this might be likely to attract more desperate patients to give their data, potentially skewing the data upon which the model is trained. An alternative would be to ask physicians to sit down and to “make up” some patient records which they would likely see; in this case, their intuition would guide them toward making decisions about what ailments and symptoms they typically expect to see together, however, it would be questionable exactly what information the model even provides us with at that point as the data is fictional and reflects the knowledge and biases already prevalent within the medical field at that point, thus perhaps not even leading to any genuine contribution.  
 
-* What technologies would this additional product or service utilize?
-  * It might have to be some sort of unsupervised learning algorithm so as not to have human eyes on the data, however, it seems to me that there would nevertheless have to be some human eyes on the data in order to make sure that the models are working appropriately well which might imply that supervised remains an option also. Maybe the solution would be to have a lot of doctors "invent" fake patient records which seem realistic so that the model could be trained on those records, but that doesn't sound like a particularly good idea when we consider all the liability that unreflective patient records bring. Another method would be to perhaps find a training set of people who willingly volunteer their data for the study, but that probably would also give a biased set of patients as these would be individuals who are likely feeling more desperate in their medical situation.
-
-
-* Why are these technologies appropriate for your solution? I think the reasons have been explained in the previous paragraph already.
-  * AI and ML algorithms should scrape data and put it into a usable format for other machine learning algorithms to utilize without humans having to touch the true data very much. If some workaround to the problem of requiring humans to look at genuine medical data were to be found, I suppose it wouldn't matter so much if the method were supervised or unsupervised, assuming that no misdiagnoses were made from which the labeling of the data could create inaccurate results. I imagine this to be a lesser problem, however.
+Personally, I still think the volunteer records solution is the best, but arriving at an unbiased sample would be the primary challenge, and it likely would take a lot of time and resources to complete such a project. If it is possible to get good data which can be trusted, and which is volunteered, it wouldn’t even matter so much if we use a supervised or unsupervised approach, at least in conceptual terms.  
 
 
 ## Bibliography <a name="bibliography"></a>
